@@ -1,4 +1,3 @@
 <?php
-header("Location: http://www.facebook.com");
-exit;
+header ("Location: http://www.facebook.com");
 ?>
